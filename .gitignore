@@ -1,5 +1,8 @@
 venv/
 subjects/
+subjects_pdfs/
 data/
 assets/
 отчеты/
+*.pyc
+*.pycache*
